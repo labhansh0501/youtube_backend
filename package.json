@@ -1,0 +1,17 @@
+{
+  "name": "backend_chai",
+  "version": "1.0.0",
+  "description": "youtube backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "express",
+    "js",
+    "node"
+  ],
+  "author": "Lakshya Bhardwaj",
+  "license": "ISC"
+}
